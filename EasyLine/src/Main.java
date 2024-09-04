@@ -1,3 +1,7 @@
+// JEYARAJ
+// 04/09/2024
+// TP Exploratoire
+
 public class Main  {
     public static void main(String[] args) {
         Voyage monVoyage = new Voyage(3000, 10,  "Sri Lanka");
